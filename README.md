@@ -7,6 +7,9 @@ A research project investigating human-robot handover interactions by comparing 
 
 **Authors:** Samyukta Ramesh, Anusha Manohar, Caryn Dsouza
 
+## Demo Video
+[![EchoHand Demo](https://img.youtube.com/vi/HKD4DqPf8_M/0.jpg)](https://youtu.be/HKD4DqPf8_M)
+
 ---
 
 ## Overview
